@@ -2,5 +2,5 @@ deployment:
   imageRepo: khalidaws2024/mongodb
   imageVersion: v1
 service:
-  type: clusterIP
+  type: ClusterIP
   
